@@ -2,14 +2,19 @@
  
  This project aims to allow chess players to get other players' elo ratings!
  
+ ## Table of Contents
+ - [Dependencies](#Dependencies)
+ - [Development Roadmap](#Development)
  
+ 
+ ## **Dependencies** <a name = "Dependencies"></a>
  This project uses:
  - Python and [**Flask**](https://flask.palletsprojects.com/en/2.2.x/) to handle the server side
  - [**Chess.js**](https://chessboardjs.com/) to handle the chess board
  
  
  
- ## **Development Roadmap** (subject to change)
+ ## **Development Roadmap** (subject to change) <a name="Development"></a>
  
  ### 1. Basic Functionality:
 - *Passable* front end design
